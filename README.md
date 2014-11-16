@@ -1,5 +1,5 @@
 ggslag
 ======
 
-ggslag is for working with Grails
+ggslag is for working with Grails (and Grails)
 
